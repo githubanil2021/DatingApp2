@@ -1,0 +1,12 @@
+.dropdown-item, .dropdown-toggle{
+    cursor: pointer;
+}
+
+.activeLink{
+
+    color: green;
+}
+
+.activeLinkBold{
+    font-weight: bolder;
+}
